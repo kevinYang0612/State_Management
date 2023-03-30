@@ -1,0 +1,11 @@
+    State Management
+This project will use state design pattern to control player character in a game.
+It is a behavioral pattern that let an object alter it's behavior when its internal changes.
+
+
+1. Creational Design patterns
+    provide us with different object creation mechanisms
+2. Structural Design patterns
+    help us to assemble objects into flexible and efficient code structures
+3. Behavioral Design patterns
+    deal with communication and assigning responsibilities between objects
